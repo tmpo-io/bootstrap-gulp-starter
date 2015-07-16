@@ -1,0 +1,28 @@
+
+/*RESET CSS*/
+@import "../bower_components/normalize.css/normalize";
+@import "objects/sprite";
+
+/* Bootsrap and Bourbon */
+@import "bower_components/bourbon/app/assets/stylesheets/bourbon";
+
+@import "bower_components/bootstrap-sass/assets/stylesheets/bootstrap/variables.scss";
+@import "bower_components/bootstrap-sass/assets/stylesheets/bootstrap/mixins.scss";
+@import "bower_components/bootstrap-sass/assets/stylesheets/bootstrap/grid.scss";
+
+@import "bower_components/slick-carousel/slick/slick";
+@import "bower_components/slick-carousel/slick/slick-theme";
+
+@import "objects/slick_carousel";
+@import "objects/variables";
+@import "objects/mixins";
+@import "objects/fonts";
+@import "objects/header";
+@import "objects/form";
+@import "objects/layout";
+@import "objects/services";
+@import "objects/buscador";
+@import "objects/fitxa";
+@import "objects/user";
+@import "objects/blog";
+@import "objects/post";

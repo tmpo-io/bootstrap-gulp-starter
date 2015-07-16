@@ -1,0 +1,25 @@
+{
+  "name": "devel",
+  "version": "0.0.0",
+  "authors": [
+    "Oriol Collell <oriol@tempointeractiu.com>"
+  ],
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "~3.3.4",
+    "underscore": "~1.8.3",
+    "normalize.css": "~3.0.3",
+    "bourbon": "~4.2.3",
+     "backbone": "~1.2.1"
+  }
+}
